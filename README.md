@@ -3,7 +3,7 @@ I spent my internship at L.I.N.K.S., a foundation born out of an
 agreement between Compagnia di San Paolo and the Politecnico di Torino, which specifically 
  deals with research in the field of artificial intelligence.
 During this course, I studied deep learning, specifically convolutional neural networks. 
-this was possible thanks to my participation in the 
+This was possible thanks to my participation in the 
 Music A.I project, concerning an artificial intelligence that translates musical sentiment into images, specifically works of art. 
 I, together with two of my fellow interns, had the task of 
 develop an image classifier that would divide 'spurious' images 
